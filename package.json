@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://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@github.com/Kirill213-wq/HWjs2.git"
+    "type": "git"
+    
   },
   "keywords": [],
   "author": "",
